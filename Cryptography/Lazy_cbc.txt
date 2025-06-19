@@ -1,0 +1,6 @@
+step 1 : pass a 32 zeros string and get the ciphertext 
+step2 : append the ciphertext at the end of 32 zeros and pass and get the ciphertext
+step3 : take last the 32 bytes of the ciphertext
+step4 : decrypt it and get the plain text in hex
+step5 : pass that hex form to get flag function
+step6 : decode hex to string , Congrates you get the text 
